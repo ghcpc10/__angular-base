@@ -1,4 +1,4 @@
-## Basic "Angular + NodeJs" App
+## Basic "Angular + NodeJs + Gulp" App
 
 
 ## Getting Started
